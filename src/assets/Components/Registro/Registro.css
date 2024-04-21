@@ -1,0 +1,54 @@
+.background {
+    background-image: url("images/Fondo_Login/fondo.png");
+    /* border: 3px solid rgb(215, 222, 226); */
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 75vh;
+    /* margin: 20px 10px; */
+    /* padding: 30px; */
+}
+
+.total1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 95%;
+    /* margin: 44px; */
+}
+
+.titulo-imgOne {
+    text-align: center;
+    margin: -5px;
+}
+.registroBoton{
+    background-color: rgb(1 116 142);
+    color: #ffffff;
+    width: 100%;
+    padding: 10px;
+}
+.botonesOne {
+    display: flex;
+    color: #08060e;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    margin-top: -10px;
+}
+
+.botonesOne button {
+    margin-top: 10px;
+    background-color: rgb(1 116 142);
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+}
+
+.registroLink {
+    margin-top: 10px;
+    color: #000;
+    text-decoration: none;
+    padding: 13px;
+    font-size: 12px;
+}

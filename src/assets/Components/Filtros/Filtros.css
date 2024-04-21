@@ -1,0 +1,54 @@
+.display img {
+    width: 50px;
+    margin-left: 95px;
+}
+
+.display h2 {
+    color: #00748E;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+.c-sele select {
+    border: 0;
+    border-bottom: 1px solid #9cb6b8;
+}
+
+.c-sele h4 {
+    font-weight: 300;
+    text-align: justify;
+    color: #00748E;
+
+}
+
+.container {
+    padding: 0 20px;
+}
+
+.indiv {
+    margin: 5px;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #9cb6b8;
+}
+
+.indiv-b {
+    width: 75px;
+    height: 35px;
+}
+
+.indiv-b img {
+    height: 20px;
+
+}
+
+.indiv p {
+    font-size: 10px;
+}
+
+.c-sele h2 {
+    font-weight: 300;
+    text-align: justify;
+    color: #00748E;
+}

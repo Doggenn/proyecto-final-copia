@@ -1,0 +1,89 @@
+.cards {
+    width: 100%;
+}
+
+.carta {
+    margin: 10px 0;
+    color: #00748E;
+}
+
+.card-animal {
+    border: 2px solid #9cb6b8;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    position: relative; 
+}
+.image-container{
+    /* position: relative; */
+    height: 85%;
+    /* width: 80%; */
+}
+.mascotasLike{
+    position: absolute;
+    height: 30px;
+    margin: 10px;
+    top: 0; 
+    right: 0;
+}
+.mascotasImg{
+    /* position: relative; */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+.t-max {
+    height: 100%;
+}
+
+.text-mas {
+    color: #00748E;
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+.text-span {
+    font-size: 19px;
+    color: rgb(70, 63, 63);
+    border-top: 2px solid #9cb6b8;
+    padding-right: 10px;
+    /* border-bottom: 2px solid #9cb6b8; */
+}
+
+.c-masc {
+    border-bottom: 1px solid #9cb6b8;
+}
+
+.b-border {
+    border-radius: 8px;
+    color: #00748E;
+    margin: 20px 0;
+    border: 2px solid #9cb6b8;
+}
+
+.a-rrow img {
+    margin-right: 10px;
+    width: 10px;
+}
+
+.b-border-text h3 {
+    margin: 0;
+    padding: 13px;
+    font-size: 19px;
+}
+
+.c-max img {
+    width: 30px;
+}
+
+.c-max h2 {
+    color: #00748E;
+    font-size: 19px;
+}
+
+.tamano-img {
+    width: 200px;
+    height: 200px;
+}

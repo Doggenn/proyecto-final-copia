@@ -1,0 +1,34 @@
+.contenedor {
+    border: 1px solid #00748E;
+    margin: 10px 0px;
+    padding: 0 30px;
+    border-radius: 10px;
+    color: #00748E;
+}
+
+.contenedor-p {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.contenedor-p-ul {
+    margin-top: 55px;
+}
+
+.c-h h4 {
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.c-h img {
+    width: 30px;
+}
+
+.i-arrow img {
+    width: 10px;
+}
+
+.contenedor-ul {
+    margin-top: 200px;
+}

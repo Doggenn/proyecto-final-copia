@@ -1,0 +1,24 @@
+
+.menuEstilo {
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    color: #00748E;
+    padding: 5px;
+    justify-content: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    z-index: 5000;
+}
+
+.estiloNav {
+    max-height: 100%;
+    max-width: 100%;
+    margin: 2%;
+}
+
+.menuImg {
+    max-height: 70%;
+    max-width: 100%;
+}

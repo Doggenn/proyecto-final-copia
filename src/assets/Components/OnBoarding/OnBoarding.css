@@ -1,0 +1,68 @@
+.row {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container-img {
+    font-size: 40px;
+    color: #00748E;
+}
+
+.med {
+    height: 5%;
+}
+
+.med img {
+    width: 40px;
+}
+
+.o-med {
+    padding-top: 115px;
+    height: 90%;
+}
+
+.w-med {
+    margin-bottom: 40px;
+}
+
+.w-med img {
+    width: 270px;
+}
+
+.b-text {
+    padding: 20px;
+    font-size: 40px;
+    color: #00748E;
+}
+
+.b-text h4 {
+    color: black;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.b-text-ul {
+    margin: 10px;
+}
+
+.contnt {
+    height: 100vh;
+    width: 100%;
+}
+
+.foto {
+    margin: 10px;
+    width: 270px;
+}
+
+.btn-close {
+    margin-right: 23px;
+    display: flex;
+    justify-content: end;
+}
+
+.b-uton {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}

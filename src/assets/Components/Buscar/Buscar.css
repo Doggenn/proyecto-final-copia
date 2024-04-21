@@ -1,0 +1,17 @@
+.conta-buscar {
+    border: 1px solid #9cb6b8;
+    border-radius: 20px;
+    /* margin-top: 25px; */
+    padding: 0 20px;
+}
+
+.conta-buscar input {
+    border: 0;
+}
+
+.conta-buscar img {
+    width: 20px;
+}
+.buscarTamano{
+
+}
